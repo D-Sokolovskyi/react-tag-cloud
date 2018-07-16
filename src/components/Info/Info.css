@@ -1,0 +1,23 @@
+.Info {
+  width: 30%;
+  padding-left: 20px;
+  box-sizing: border-box;
+  text-transform: capitalize;
+}
+
+.Info h3 {
+  margin-top: 0;
+}
+
+.Info ul {
+  padding: 0;
+  margin: 12px 0 0;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.Info ul li {
+  padding-left: 20px;
+  margin-top: 6px;
+  font-weight: normal;
+}

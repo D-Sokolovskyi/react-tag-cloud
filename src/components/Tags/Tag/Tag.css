@@ -1,0 +1,10 @@
+.Tag {
+  display: inline-block;
+  margin: 1.1rem 1.2rem;
+  text-decoration: none;
+}
+
+.active {
+  color: orange;
+  text-decoration: underline;
+}
